@@ -17,6 +17,13 @@ h1  {
     text-shadow: 0 0 3px #ef7b32, 0 0 5px rgb(203, 203, 244);
 }
 
+h2  {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: #ef7b32;
+    text-shadow: 0 0 3px #216bea, 0 0 5px rgb(203, 203, 244);
+}
+
 .card-heading  {
     background-color: #216bea;
     color:rgba(236, 238, 239, 0.648);
